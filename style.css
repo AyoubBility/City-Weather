@@ -1,27 +1,38 @@
 h1 {
     text-align: center;
-    background-color: royalblue;
+    background-color: rgb(45, 45, 211);
     color:white;
     font-family: 'Mulish', sans-serif;
     width:100%;
     padding:15px;
-  }
-  .input-group {
+}
+
+h3 {
+    float:left;
+}
+
+.mt-2 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.input-group {
     margin-bottom: 15px;
-  }
-  .header-style {
+}
+
+.header-style {
     font-size: 50px;
     color: #ffffff;
     font-family: 'Mulish', sans-serif;
     text-align: center;
-  }
-  .card {
+}
+
+.card {
     width:100%;
-  }
-  .fiveDay{    
-    background-color: royalblue;
+}
+
+.fiveDay {    
+    background-color: rgb(45, 45, 211);
     margin: 15px;
-  }
-  h3 {
-    float:left;
-  }
+}
+  
